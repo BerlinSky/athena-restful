@@ -1,0 +1,208 @@
+{
+  "booklist": 
+  [
+    {
+      "id": 1,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "description": "An epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51IeBzZguDL.jpg",
+      "imageUrl-local": "./images/the-grapes-of-wrath.jpg"
+    }, 
+    {
+      "id": 2,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "description": "This is a gripping tale of crime and guilt, revenge and reward",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/410lfZOQI6L._SX318_BO1,204,203,200_.jpg",
+      "imageUrl-local": "./images/great-expectations.jpg"
+    }, 
+    {
+      "id": 3,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "Wuthering Heights is a wild, passionate story of the intense and almost demonic love between Catherine Earnshaw and Heathcliff.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81zx%2BPUBRFL.jpg",
+      "imageUrl-local": "./images/wuthering-heights.jpg"
+    }, 
+    {
+      "id": 4,
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "description": "The sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/415AMIk9PQL._SX324_BO1,204,203,200_.jpg",
+      "imageUrl-local": "./images/sense-and-sensibility.jpg"
+    }, 
+    {
+      "id": 5,
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "description": "This is a novel without a hero, satirizing society in early 19th-century Britain.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/516voTm5L%2BL.jpg",
+      "imageUrl-local": "./images/vanity-fair.jpg"
+    }, 
+    {
+      "id": 6,
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "description": "The author ortrays a whole community--tradespeople, middle classes, country gentry--in the rising provincial town of Middlemarch, circa 1830.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51vOou9D1XL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    }
+  ],
+  "master-booklist": 
+  [
+    {
+      "id": 1,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "description": "An epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51IeBzZguDL.jpg",
+      "imageUrl-local": "./images/the-grapes-of-wrath.jpg"
+    }, 
+    {
+      "id": 2,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "description": "This is a gripping tale of crime and guilt, revenge and reward",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/410lfZOQI6L._SX318_BO1,204,203,200_.jpg",
+      "imageUrl-local": "./images/great-expectations.jpg"
+    }, 
+    {
+      "id": 3,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "Wuthering Heights is a wild, passionate story of the intense and almost demonic love between Catherine Earnshaw and Heathcliff.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81zx%2BPUBRFL.jpg",
+      "imageUrl-local": "./images/wuthering-heights.jpg"
+    }, 
+    {
+      "id": 4,
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "description": "The sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/415AMIk9PQL._SX324_BO1,204,203,200_.jpg",
+      "imageUrl-local": "./images/sense-and-sensibility.jpg"
+    }, 
+    {
+      "id": 5,
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "description": "This is a novel without a hero, satirizing society in early 19th-century Britain.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/516voTm5L%2BL.jpg",
+      "imageUrl-local": "./images/vanity-fair.jpg"
+    }, 
+    {
+      "id": 6,
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "description": "The author ortrays a whole community--tradespeople, middle classes, country gentry--in the rising provincial town of Middlemarch, circa 1830.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51vOou9D1XL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 7,
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "description": "David Copperfield is the story of a young man's adventures on his journey from an unhappy and impoverished childhood to the discovery of his vocation as a successful novelist.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/918FZggIBAL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "description": "The story of Oliver Twist - orphaned, and set upon by evil and adversity from his first breath - shocked readers when it was published.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/913c-QNtd2L.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "description": "When Nicholas Nickleby is left penniless after his father's death, he appeals to his wealthy uncle to help him find work and to protect his mother and sister.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/811SrUzg4VL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 10,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "description": "In the early days of the French Revolution, a young Englishman determines to do the utmost to save the husband of the woman he loves from the guillotine.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51rG5V75YYL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Emma",
+      "author": "Jane Austen",
+      "description": "Beautiful, clever, rich—and single—Emma Woodhouse is perfectly content with her life and sees no need for either love or marriage.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91n29KWpd8L.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Mansfield Park",
+      "author": "Jane Austen",
+      "description": "Taken from the poverty of her parents' home in Portsmouth, Fanny Price is brought up with her rich cousins at Mansfield Park, acutely aware of her humble rank and with her cousin Edmund as her sole ally.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91YKKuIUFnL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Poisonwood Bible",
+      "author": "Barbara Kingsolver",
+      "description": "It is a story told by the wife and four daughters of Nathan Price, a fierce, evangelical Baptist who takes his family and mission to the Belgian Congo in 1959.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51IvQ1MrWjL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Prodigal Summer",
+      "author": "Barbara Kingsolver",
+      "description": "The novel is a hymn to wildness that celebrates the prodigal spirit of human nature, and of nature itself.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51habVcrqdL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Matterhorn",
+      "author": "Karl Marlantes",
+      "description": "It is the timeless story of a young Marine lieutenant, Waino Mellas, and his comrades in Bravo Company, who are dropped into the mountain jungle of Vietnam as boys and forced to fight their way into manhood.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41H5GQacmoL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 17,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "1984 presents a startling and haunting vision of the world, so powerful that it is completely convincing from start to finish. ",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/31BJ1bAJUGL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "Santiago a Andalusian shepherd boy, travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81Z8JvDGMqL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Sophie's World",
+      "author": "Jostein Gaarder",
+      "description": "A page-turning novel that is also an exploration of the great philosophical concepts of Western thought, Sophie's World has fired the imagination of readers all over the world.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/919mvu2ffVL.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "description": "Virginia Woolf details Clarissa Dalloway’s preparations for a party of which she is to be hostess, exploring the hidden springs of thought and action in one day of a woman’s life.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51XYS19wKML.jpg",
+      "imageUrl-local": "./images/middle-march.jpg"
+    }
+  ]
+}
