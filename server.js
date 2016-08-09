@@ -7,16 +7,22 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+app.use(function(req, res, next) {
+  req.rootPath = __dirname;
+  next();
+});
+
 app.use('/api', require('./routes/api'));
 
 // app.listen(8081);
 // console.log('API is running on port 3000');
 
 var server = app.listen(8081, function () {
-	var host = server.address().address
-	var port = server.address().port
+	var host = server.address().address;
+	var port = server.address().port;
 
-	console.log("API is running at http://%s:%s", host, port)
+	console.log("API is running at http://%s:%s", host, port);
 });
+
 
 
